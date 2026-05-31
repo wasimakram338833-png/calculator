@@ -1,2 +1,2 @@
 # calculator
-this is my practice small project 
+this is my small practice project 
