@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.calculator{
+    text-align: center;
+    margin-top: 102px;
+}
+input{
+    border-radius: 21px;
+    border: 12x solid #244624;
+    font-size: 34;
+}
+button{
+    font-size: 40;
+    background-color: aqua;
+    width: 40px;
+    height: 30;
+    margin: 5x;
+}
+.calculator{
+    background-color: #ff99f7;
+    padding: 23px;
+    border: 2px;
+    display: inline-block;
+}
